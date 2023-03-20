@@ -1,0 +1,1 @@
+css files for each page go here, name it the same as the .php file
